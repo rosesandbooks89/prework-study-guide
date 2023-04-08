@@ -7,8 +7,8 @@
    footer {
     width: 100%;
     height: 120px;
-    background-color: blue;
-    color: white;
+    background-color: teal;
+    color: black;
    }
    
    h1,
@@ -37,6 +37,6 @@
    .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid gray;
-    box-shadow: 5px 10px #888888;
+    border: 5px solid black;
+    box-shadow: 5px 10px black;
   }
